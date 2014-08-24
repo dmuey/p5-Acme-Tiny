@@ -1,5 +1,9 @@
 Revision history for Acme-Tiny
 
+0.5  Sun Aug 24 11:04:00 2014
+       (YAPC::EU release)
+       Added 'Writing a ::Tiny module' w/ link to blog article.
+
 0.4  Thu Apr  3 20:55:36 2008
        Fixed POD copy/paste leftover
        Make sure the package can be used as a base class (Rule #2 subset of original mod, Acme.pm)
